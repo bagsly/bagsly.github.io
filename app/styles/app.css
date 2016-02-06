@@ -9,7 +9,7 @@ html,body {
 
 body {
   padding:3em 15px;
-  background-color:#9D9993;
+  background-color:#E1E1E2;
   display:table;
   font-family: 'Lato', sans-serif;
 }
@@ -25,7 +25,7 @@ a:hover {
 }
 
 h1 {
-  color: #fff;
+  color: #000;
   font-size: 50px;
   line-height: 1.15;
   margin-bottom: 5px;
@@ -34,7 +34,7 @@ h1 {
 }
 
 h2 {
-  color: #fff;
+  color: #000;
   font-size: 40px;
   line-height: 1.2;
   margin: 0;
@@ -42,7 +42,7 @@ h2 {
 }
 
 p.tagline {
-  color: #fff;
+  color: #000;
   font-size: 36px;
   line-height: 1.2;
   margin-bottom: 20px;
@@ -75,13 +75,13 @@ p.error {
   right: 0;
   text-align: center;
   font-size: 14px;
-  color: #fff;
+  color: #000;
   font-weight: 300;
   font-family: 'Lato', sans-serif;
 }
 
 .bottom-bar p a {
-  color:#fff;
+  color:#000;
   text-decoration:underline;
 }
 
@@ -98,7 +98,7 @@ form {
 form .form-control {
   height:60px;
   padding:18px;
-  background-color:#fff;
+  background-color:#fafafa;
   border: 0;
   box-shadow: none;
   border-radius: 6px 6px 0 0;
@@ -117,8 +117,8 @@ form input[type="submit"] {
   letter-spacing:.2em;
   padding: 12px 0 14px;
   border:0;
-  background-color:#686158;
-  color:#fff;
+  background-color:#333;
+  color:#000;
   font-weight:500;
   border-radius: 0 0 6px 6px;
   -webkit-transition:all .4s;
